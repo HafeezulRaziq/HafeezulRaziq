@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HafeezulRaziq
 - 👀 I’m from a small country in the Heart of Borneo!🇧🇳
-- 🌱 I’m currently learning on Experience Design, Brand Strategy & Marketing!
+- 🚀 I’m an aspiring developer & designer!
+- 🌱 I’m currently learning front-end dev & data science!
 - 💞️ I’m looking to collaborate on any events or organizations that focused in helping the special needs community!
 - 📫 DM me on IG @hafeezulrzq!
 
